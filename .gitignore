@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# IntelliJ
+.idea/
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# Logs
+*.log
+
+# Java
+*.class
+target/
+
+# Maven Wrapper (keep these!)
+!**/.mvn/wrapper/maven-wrapper.jar
+
+# Environment files
+.env
